@@ -173,8 +173,8 @@ java com.craftinginterpreters.lox.Lox <プログラム>
 
 [source,console]
 ----
->1+10
-(+ 1.0 10.0)
+>1+2*3
+(+ 1.0 (* 2.0 3.0))
 ----
 
 作成できたら、一度「lox01」をコミットしなさい。
