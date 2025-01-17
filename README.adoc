@@ -173,7 +173,8 @@ java com.craftinginterpreters.lox.Lox <プログラム>
 
 [source,console]
 ----
-ここに、Loxを実行したときのコマンドライン、その動作結果をテキストで貼り付ける。
+>1+10
+(+ 1.0 10.0)
 ----
 
 作成できたら、一度「lox01」をコミットしなさい。
